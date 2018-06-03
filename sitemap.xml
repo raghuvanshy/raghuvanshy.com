@@ -3,51 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/posts/initial-gh-pages-test/</loc>
+    <loc>https://raghuvanshy.com/posts/publising-via-github-pages/</loc>
+    <lastmod>2018-06-03T07:30:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raghuvanshy.com/posts/initial-gh-pages-test/</loc>
     <lastmod>2018-06-02T10:00:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://raghuvanshy.com/about/</loc>
     <lastmod>2018-06-02T14:23:15+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/hello-world/</loc>
+    <loc>https://raghuvanshy.com/posts/hello-world/</loc>
     <lastmod>2018-06-02T14:20:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://raghuvanshy.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/</loc>
-    <lastmod>2018-06-02T10:00:44+00:00</lastmod>
+    <loc>https://raghuvanshy.com/posts/</loc>
+    <lastmod>2018-06-03T07:30:14+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://raghuvanshy.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/test/</loc>
-    <lastmod>2018-06-02T14:20:58+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/categories/test/</loc>
+    <loc>https://raghuvanshy.com/tags/test/</loc>
     <lastmod>2018-06-02T14:20:58+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
-    <lastmod>2018-06-02T10:00:44+00:00</lastmod>
+    <loc>https://raghuvanshy.com/categories/test/</loc>
+    <lastmod>2018-06-02T14:20:58+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://raghuvanshy.com/</loc>
+    <lastmod>2018-06-03T07:30:14+00:00</lastmod>
     <priority>0</priority>
   </url>
   

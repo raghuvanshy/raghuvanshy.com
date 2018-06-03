@@ -2,30 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on johndoe</title>
-    <link>http://www.example.com/posts/</link>
+    <link>https://raghuvanshy.com/posts/</link>
     <description>Recent content in Posts on johndoe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Jun 2018 10:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jun 2018 07:30:14 +0000</lastBuildDate>
     
-	<atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raghuvanshy.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Publising via github pages</title>
+      <link>https://raghuvanshy.com/posts/publising-via-github-pages/</link>
+      <pubDate>Sun, 03 Jun 2018 07:30:14 +0000</pubDate>
+      
+      <guid>https://raghuvanshy.com/posts/publising-via-github-pages/</guid>
+      <description>Initial publish via github pages complete.
+Forwarded onto custom domain.
+css not directed to desired domain. Looking to fix and push onto custom domain.</description>
+    </item>
+    
+    <item>
       <title>Initial gh-pages test</title>
-      <link>http://www.example.com/posts/initial-gh-pages-test/</link>
+      <link>https://raghuvanshy.com/posts/initial-gh-pages-test/</link>
       <pubDate>Sat, 02 Jun 2018 10:00:44 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/initial-gh-pages-test/</guid>
+      <guid>https://raghuvanshy.com/posts/initial-gh-pages-test/</guid>
       <description>this is the initial test for forestry</description>
     </item>
     
     <item>
       <title>Hello, World!</title>
-      <link>http://www.example.com/posts/hello-world/</link>
+      <link>https://raghuvanshy.com/posts/hello-world/</link>
       <pubDate>Sat, 02 Jun 2018 14:20:58 +0530</pubDate>
       
-      <guid>http://www.example.com/posts/hello-world/</guid>
+      <guid>https://raghuvanshy.com/posts/hello-world/</guid>
       <description> Initial test post </description>
     </item>
     
