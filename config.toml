@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://raghuvanshy.com/"
 title = "johndoe"
 
 theme = "coder"
