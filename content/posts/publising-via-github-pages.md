@@ -12,5 +12,3 @@ Initial publish via github pages complete.
 Forwarded onto custom domain.
 
 css not directed to desired domain. Looking to fix and push onto custom domain.
-
-phase 2.
