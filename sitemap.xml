@@ -34,6 +34,12 @@
   </url>
   
   <url>
+    <loc>https://raghuvanshy.com/</loc>
+    <lastmod>2018-06-03T07:30:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://raghuvanshy.com/tags/</loc>
     <priority>0</priority>
   </url>
@@ -47,12 +53,6 @@
   <url>
     <loc>https://raghuvanshy.com/categories/test/</loc>
     <lastmod>2018-06-02T14:20:58+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://raghuvanshy.com/</loc>
-    <lastmod>2018-06-03T07:30:14+00:00</lastmod>
     <priority>0</priority>
   </url>
   
