@@ -1,54 +1,42 @@
 baseurl = "https://raghuvanshy.com/"
-title = "Raghuvanshy"
-
-theme = "coder"
-
-languagecode = "en"
-
-paginate = 20
 canonifyurls = true
-
-pygmentsstyle = "b2"
+disqusShortname = "yourdiscussshortname"
+languagecode = "en"
+paginate = 20
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
-disqusShortname = "yourdiscussshortname"
-
-[params]
-author = "Gaurav Raghuvanshy aka codeRiot"
-description = "codeRiot's personal website"
-keywords = "blog,developer,personal,golang,vi,linux"
-info = "Full Stack Golang Dev and CLI wizard level 1"
-
-hideCredits = false
-hideCopyright = false
-
-# Custom CSS
-custom_css = []
-
-[[params.social]]
-name = "Github"
-weight = 1
-url = "https://github.com/raghuvanshy/"
-[[params.social]]
-name = "Twitter"
-weight = 2
-url = "https://twitter.com/johndoe/"
-[[params.social]]
-name = "LinkedIn"
-weight = 3
-url = "https://www.linkedin.com/in/coderiot/"
-
+pygmentsstyle = "b2"
+theme = "coder"
+title = "Raghuvanshy"
 [[menu.main]]
 name = "Blog"
+url = "/posts/"
 weight = 1
-url  = "/posts/"
 [[menu.main]]
 name = "About"
-weight = 2
 url = "/about/"
+weight = 2
 [[menu.main]]
 name = "Projects"
-weight = 2
 url = "/projects/"
-
+weight = 2
+[params]
+author = "Gaurav Raghuvanshy aka codeRiot"
+custom_css = []
+description = "codeRiot's personal website"
+hidecopyright = false
+hidecredits = false
+info = "Full Stack Golang Dev and CLI wizard level 3"
+keywords = "blog,developer,personal,golang,vi,linux"
+[[params.social]]
+name = "Github"
+url = "https://github.com/raghuvanshy/"
+weight = 1
+[[params.social]]
+name = "Twitter"
+url = "https://twitter.com/johndoe/"
+weight = 2
+[[params.social]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/coderiot/"
+weight = 3
