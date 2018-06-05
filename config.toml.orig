@@ -26,8 +26,19 @@ custom_css = []
 description = "codeRiot's personal website"
 hidecopyright = false
 hidecredits = false
-info = "Full Stack Golang Dev and CLI wizard level 4"
+info = "Full Stack Golang Dev and CLI wizard level 3"
 keywords = "blog,developer,personal,golang,vi,linux"
+<<<<<<< HEAD
+info = "Full Stack Golang Dev and CLI wizard level 4"
+
+hideCredits = false
+hideCopyright = false
+
+# Custom CSS
+custom_css = []
+
+=======
+>>>>>>> 46e0bc04d46f8d2dad83cf58e42948585957ffb4
 [[params.social]]
 name = "Github"
 url = "https://github.com/raghuvanshy/"
