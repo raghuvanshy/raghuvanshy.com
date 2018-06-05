@@ -1,5 +1,5 @@
 baseurl = "https://raghuvanshy.com/"
-title = "johndoe"
+title = "Raghuvanshy"
 
 theme = "coder"
 
@@ -29,7 +29,7 @@ custom_css = []
 [[params.social]]
 name = "Github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/raghuvanshy/"
 [[params.social]]
 name = "Twitter"
 weight = 2
@@ -37,7 +37,7 @@ url = "https://twitter.com/johndoe/"
 [[params.social]]
 name = "LinkedIn"
 weight = 3
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/coderiot/"
 
 [[menu.main]]
 name = "Blog"
@@ -47,3 +47,8 @@ url  = "/posts/"
 name = "About"
 weight = 2
 url = "/about/"
+[[menu.main]]
+name = "Projects"
+weight = 2
+url = "/projects/"
+
